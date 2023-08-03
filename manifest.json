@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Pastel Pink Theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-009-f069b97f439938a011297c84464f0df6.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(255, 227, 238)",
+      "toolbar_text": "rgb(175, 120, 119)",
+      "frame": "rgb(248, 200, 220)",
+      "tab_background_text": "rgb(181, 116, 140)",
+      "toolbar_field": "rgb(255, 240, 240)",
+      "toolbar_field_text": "rgb(203, 138, 136)",
+      "tab_line": "rgb(255, 189, 189)",
+      "popup": "rgb(196, 125, 152)",
+      "popup_text": "rgb(248, 200, 220)",
+      "tab_loading": "rgb(255, 189, 189)"
+    }
+  }
+}
